@@ -140,7 +140,7 @@ button {
 }
 
 .select-fav-film {
-    background: red;
+    background: #D25FD2;
 }
 
 .active {
@@ -149,5 +149,5 @@ button {
 
 .btn-select:hover,
 .loadMore:hover {
-    background-color: red;
+    background-color: #D25FD2;
 }
