@@ -32,6 +32,7 @@ button {
 
 .btn-select {
     margin: 10px;
+    outline: none;
 }
 
 .search-wrapper {
